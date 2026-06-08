@@ -1,0 +1,6 @@
+{
+  "name": "이수민 Interactive Portfolio",
+  "description": "영어영문학 및 AI 디자인, 뷰티 마케팅을 아우르는 이수민(Olivia)의 몽환적인 우주 테마 포트폴리오 사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
